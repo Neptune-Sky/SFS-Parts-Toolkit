@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5499134bc9bf4342a3880329018c3a62, type: 3}
+  m_Name: Neptune's
+  m_EditorClassIdentifier: 
+  DisplayName: Neptune's Miscellaneous
+  Version: v1.3
+  Description: A random assortment of nice-to-have parts with no particular way to
+    sort them.
+  Author: NeptuneSky
+  ShowIcon: 0
+  Icon: {fileID: 0}
