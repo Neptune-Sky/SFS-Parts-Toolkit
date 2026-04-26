@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: solidfuel
   m_EditorClassIdentifier: 
   DisplayName: Solid Rocket Boosters
-  Version: v3.0
+  Version: v3.0.1
   Description: Adds solid rocket boosters in numerous sizes!
   Author: NeptuneSky
   ShowIcon: 1

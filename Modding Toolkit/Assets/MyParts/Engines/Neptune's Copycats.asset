@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Neptune's Copycats
   m_EditorClassIdentifier: 
   DisplayName: Neptune's Copycats
-  Version: v1.1.1
+  Version: v1.1.2
   Description: Vanilla-esque engines created to extend the range of sizes for the
     vanilla engines.
   Author: NeptuneSky

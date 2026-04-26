@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Neptune's
   m_EditorClassIdentifier: 
   DisplayName: Neptune's Miscellaneous
-  Version: v1.3
+  Version: v1.3.1
   Description: A random assortment of nice-to-have parts with no particular way to
     sort them.
   Author: NeptuneSky

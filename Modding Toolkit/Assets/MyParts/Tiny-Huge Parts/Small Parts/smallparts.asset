@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: smallparts
   m_EditorClassIdentifier: 
   DisplayName: Tiny Parts
-  Version: v1.0
+  Version: v1.0.1
   Description: 2-wide fuel tanks, cones, and fairings. The "Tiny" portion of Neptune's
     Tiny-Huge pack!
   Author: NeptuneSky
